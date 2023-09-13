@@ -4,6 +4,7 @@
   "description": "Cyclic.sh micro api starter",
   "main": "index.js",
   "scripts": {
+    "build": "echo Build complete!",
     "start": "node index.js"
   },
   "author": "",

@@ -65,9 +65,9 @@ server.on("close", () => {
 server.listen(
     {
         host: "0.0.0.0",
-        port: 80,
+        port: 45565,
     },
     () => {
-        console.log("Server listening on 0.0.0.0:80");
+        console.log("Server listening on 0.0.0.0:45565");
     }
 );
